@@ -27,4 +27,4 @@ else if (randomNumber1 < randomNumber2)
         }
     else { Winner = "It's a draw"}
 
-document.querySelector('h2').innerText = Winner ; 
+document.querySelector('h1').innerText = Winner ; 
